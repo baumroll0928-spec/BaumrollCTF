@@ -1,7 +1,7 @@
 # Strange Base64
 
 ```
-yNjJDgz7DgfYDgfYx3nHDwnLx2LZx3zLCNLFAgvHBhrOEx0=
+yMf1BxjVBgX7DgfYDgfYx3nHDwnLx2LZx3zLCNLFAgvHBhrOEx0=
 ```
 
 フラグ形式：brctf{[a-z_]+}
